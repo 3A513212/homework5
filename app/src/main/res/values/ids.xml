@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText_year" type="id" />
+    <item name="editText_month" type="id" />
+    <item name="editText_day" type="id" />
+    <item name="editText_hour" type="id" />
+    <item name="editText_minutes" type="id" />
+    <item name="editText_second" type="id" />
+    <item name="button" type="id" />
+    <item name="DATE_text" type="id" />
+    <item name="TIME_text" type="id" />
+    <item name="LeapYear_text" type="id" />
+    <item name="textView4" type="id" />
+    <item name="textView" type="id" />
+</resources>
